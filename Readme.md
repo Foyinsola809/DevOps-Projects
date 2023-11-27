@@ -35,5 +35,86 @@ Merge a Branch into Another Branch
 
 ![](/img/07.add-new-line.png)
 
+![](/img/08.master-newbranch-merged.png)
 
+
+Deleting A Git Branch
+
+######  when a feature is added to an application, its often done in a feature branch. Usually this feature branch is deleted when the code must have been tested and merged into a staging or dev enviroment depending on the branch strateggy of the team. 
+
+
+
+
+
+
+![](/img/09.delete-branch.png)
+
+
+
+Collaborating and Remote Repositories
+
+###### Github is a web-based platform where git repositories are hosted, by hosting our local repo on github it becomes avaialable to the public ( or shared privately)
+
+Creating a Repository
+
+###### Step 1 - click on the + sign at the top right corner of your github account , select new repository from the dropdown menu
+
+
+![](/img/10.new-repo.png)
+
+###### Step 2 - complete the form by adding a unique repo name and tick the box to add readme.md file . Step 3 - click the green `create your repository` button
+
+![](/img/11.form.png)
+
+Push Local Repo to Remote github Repo
+
+###### Step 1  - generate SSH Key
+
+![](/img/12.SSH-KEY.png)
+
+###### Step 2 - Push the local repo to remote 
+
+
+![](/img/13.push-to-remote.png)
+
+##### Note you can also push from the terminal of your code editor by using typing the following commands, 1- `git status`, 2-`git add .` 3- ` git status` 4- `git commit -m "message"` 5- `git push`
+
+
+
+
+Clone a Remote Repo
+
+###### This is used for copying or downloading a remote link in github to a local machine where it can be worked on. NOTE - you can only clone into a folder with no git file.
+
+![](/img/14.clone.png)
+
+Branch Management and Tagging
+
+# Heading 1
+## Heading 2
+### Heading 3
+
+*italic* or _italic_
+**bold** or __bold__
+
+- Item 1
+- Item 2
+- Item 3
+
+
+1. First item
+2. Second item
+3. Third item
+
+To create hyperlink, use square bracket for the link text followed by parentheses containing the url
+
+[visit darey.io](https://www.darey.io)
+
+To display an image 
+
+![Alt Text](https://example.com/image.jpg)
+
+To display a code or code snippet
+
+`console.log('Welcome to darey.io')`
 
