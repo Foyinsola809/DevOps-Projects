@@ -88,33 +88,5 @@ Clone a Remote Repo
 
 ![](/img/14.clone.png)
 
-Branch Management and Tagging
-
-# Heading 1
-## Heading 2
-### Heading 3
-
-*italic* or _italic_
-**bold** or __bold__
-
-- Item 1
-- Item 2
-- Item 3
-
-
-1. First item
-2. Second item
-3. Third item
-
-To create hyperlink, use square bracket for the link text followed by parentheses containing the url
-
-[visit darey.io](https://www.darey.io)
-
-To display an image 
-
-![Alt Text](https://example.com/image.jpg)
-
-To display a code or code snippet
-
-`console.log('Welcome to darey.io')`
+ 
 
